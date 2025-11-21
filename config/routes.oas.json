@@ -20,7 +20,7 @@
           {
             "name": "active",
             "in": "query",
-            "description": "List only active alerts (use /alerts/active endpoints instead)",
+            "description": "List only active alerts foobar (use /alerts/active endpoints instead)",
             "deprecated": true,
             "schema": {
               "type": "boolean"
